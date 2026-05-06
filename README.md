@@ -23,9 +23,11 @@
 - `/privacy/` プライバシーポリシー
 - `/terms/` 利用規約
 
-## App Store Connectへ入力するURL例
+## 公開URL
 
-公開URLは未定です。GitHubユーザー名 `ndgtlft`、リポジトリ名 `kinsyu-dojo-pages` でGitHub Pagesを公開する場合、想定URLは以下です。
+https://ndgtlft.github.io/kinsyu-dojo-pages/
+
+## App Store Connectへ入力するURL
 
 - サポートURL：`https://ndgtlft.github.io/kinsyu-dojo-pages/support/`
 - プライバシーポリシーURL：`https://ndgtlft.github.io/kinsyu-dojo-pages/privacy/`
@@ -33,10 +35,11 @@
 
 独自ドメインを使う場合は、上記のドメイン部分を差し替えてください。
 
-## 差し替えが必要な項目
+## 現在の設定
 
-- 公開URL
-  - GitHub Pages公開後、必要に応じてREADME内のURL例を正式URLへ変更
+- 開発者名：Yasuyuki Arata
+- 問い合わせ先メールアドレス：nadegatadev@gmail.com
+- 最終更新日：2026/5/6
 
 ## 実装メモ
 
