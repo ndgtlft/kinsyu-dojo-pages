@@ -7,6 +7,7 @@
 ```text
 .
 ├── index.html
+├── favicon.svg
 ├── styles.css
 ├── support/
 │   └── index.html
@@ -39,11 +40,12 @@ https://ndgtlft.github.io/kinsyu-dojo-pages/
 
 - 開発者名：Yasuyuki Arata
 - 問い合わせ先メールアドレス：nadegatadev@gmail.com
-- 最終更新日：2026/5/6
+- 最終更新日：2026/5/9
 
 ## 実装メモ
 
 - JavaScriptは使用していません。
 - 外部ライブラリは使用していません。
-- 各ページに `lang="ja"`、`charset="UTF-8"`、`meta viewport` を設定しています。
+- 各ページに `lang="ja"`、`charset="UTF-8"`、`meta viewport`、`canonical`、`favicon` を設定しています。
 - 共通スタイルは `styles.css` にまとめています。
+- キーボード操作向けのスキップリンクとフォーカス表示を設定しています。
